@@ -4,10 +4,14 @@ title: How to Make CDEHP-Dataset
 permalink: /how-to-make/
 ---
 
+## Introduction
+
+We fixed a depth camera and an event camera on a simple tripod, took videos of multiple groups of volunteers and multiple groups of actions, and then used crowdsourcing and post-review methods to annotate the labels.
+
 ## Hardware Requirements
 
-* A depth camera (we use `Intel® RealSense™ D435i`).
-* An event-based camera/dynamic vision sensor (we use `CelePixel CeleX5`).
+* A depth camera (We use `Intel® RealSense™ D435i`).
+* An event-based camera/dynamic vision sensor (We use `CelePixel CeleX5`).
 * An infrared filter, in order to avoid the infrared ranging module of the depth camera from affecting the event camera.
 
 ## Building Cameras Stand
