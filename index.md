@@ -36,6 +36,11 @@ To cite our datasets, please refer to:
 * The size of the `CDEHP Dataset` is large, but we have prepared a variety of official distribution channels. Please follow the download page to download the dataset and annotation files, please remember to verify the size of each fragment.
 * In order to make subsequent research results comparable, `CDEHP Dataset` officially divides the verification set. Please follow this method to ensure the fairness of the research work.
 
+## Projects
+
+* [Website](https://github.com/CDEHP-Dataset/cdehp-dataset.github.io): This website, for promotion, distribution and feedback.
+* [PyCeleX5](https://github.com/CDEHP-Dataset/PyCeleX5): CelePixel CeleX5-MIPI C++ API Wrapper for Python 3.
+
 ## Team
 
 <div class="row">
@@ -54,7 +59,7 @@ To cite our datasets, please refer to:
    <div class="cell">
       <img class="member_avatar" src="/assets/kuretru.jpg" alt="Wuzhen Wang" />
       <p class="member_name"><a href="https://github.com/kuretru">Wuzhen Wang</a></p>
-      <p>Obtained a Master's degree from Zhejiang University of Technology, Currently work for ByteDance.</p>
+      <p>Obtained a Master's degree from Zhejiang University of Technology, currently work for ByteDance.</p>
    </div>
 </div>
 
