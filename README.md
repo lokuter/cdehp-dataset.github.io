@@ -1,3 +1,3 @@
 # CDEHP Dataset
 
-`CDEHP Dataset` is a large scale multimodal human pose dataset.
+The official website of the CDEHP dataset, visit at [https://cdehp-dataset.github.io/](https://cdehp-dataset.github.io/).
