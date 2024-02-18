@@ -40,6 +40,9 @@ To cite our datasets, please refer to:
 
 * [Website](https://github.com/CDEHP-Dataset/cdehp-dataset.github.io): This website, for promotion, distribution and feedback.
 * [PyCeleX5](https://github.com/CDEHP-Dataset/PyCeleX5): CelePixel CeleX5-MIPI C++ API Wrapper for Python 3.
+* [Calibration-Tool](https://github.com/CDEHP-Dataset/Calibration-Tool): Twin calibration tools for RGB cameras and event cameras.
+* [Recording-Tool](https://github.com/CDEHP-Dataset/Calibration-Tool): Recording tools for making CDEHP-Dataset.
+* [Annotation-Tool](https://github.com/CDEHP-Dataset/Annotation-Tool): Labeling tools for making CDEHP-Dataset.
 
 ## Team
 
