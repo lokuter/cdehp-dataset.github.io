@@ -5,11 +5,11 @@
 layout: default
 ---
 
-`CDEHP Dataset` is a large scale multimodal human pose dataset. If you are interesting about building multimodal dataset, please refer to [How to Make](/how-to-make).
+`CDEHP Dataset` is a large scale multimodal event-based human pose dataset. If you are interesting about building multimodal dataset, please refer to [How to Make](/how-to-make).
 
 ## Introduction
 
-We are proud to announce a new large-scale multi-modal dataset `CDEHP Dataset`(**C**olor **D**epth **E**vent **H**uman **P**ose). `CDEHP Dataset` uses RGB, Depth, and Event cameras to capture actions, bringing a new benchmark to the research of multi-modal models. Of course, you can also use this dataset to carry out research work in the RGB-D field or event camera field.
+We are proud to announce a new large scale multimodal event-based dataset `CDEHP Dataset`(**C**olor **D**epth **E**vent **H**uman **P**ose). `CDEHP Dataset` uses RGB, Depth, and Event cameras to capture actions, bringing a new benchmark to the research of multi-modal models. Of course, you can also use this dataset to carry out research work in the RGB-D field or event camera field.
 
 ## Citation
 
