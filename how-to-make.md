@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Make CDEHP-Dataset
-permalink: /how-to-make/
+permalink: /how-to-make
 ---
 
 ## Introduction
