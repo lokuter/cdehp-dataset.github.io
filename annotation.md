@@ -17,34 +17,37 @@ permalink: /annotation
 CDEHP
 ├── outdoor                             # Part of Dataset taken outdoors
 │   ├── train                           # Train set
-│   │   ├── A0001P0001                  # A0001 -> Action 1, P0001 -> Person 1
-│   │   │   └── S00                     # S00 -> First Shot
-│   │   │       ├── color_image         # RGB images
-│   │   │       │   ├── 000000.png
-│   │   │       │   ├── 000001.png
-│   │   │       │   └── ******.png
-│   │   │       ├── depth_raw           # Depth images
-│   │   │       │   ├── 000000.npy
-│   │   │       │   ├── 000001.npy
-│   │   │       │   └── ******.npy
-│   │   │       ├── event_image         # Event images
-│   │   │       │   ├── 000000.png
-│   │   │       │   ├── 000001.png
-│   │   │       │   └── ******.png
-│   │   │       ├── event_raw           # Raw event camera output bin file, NOT released yet
-│   │   │       │   └── A0001_P0001_S00.bin
-│   │   │       ├── color_label         # Label for RGB images
-│   │   │       │   ├── 000000.txt
-│   │   │       │   ├── 000001.txt
-│   │   │       │   └── ******.txt
-│   │   │       └── color_event         # Label for Event images
-│   │   │           ├── 000000.png
-│   │   │           ├── 000001.png
-│   │   │           └── ******.png
-│   │   └── A0001P0002                  # A0001 -> Action 1, P0002 -> Person 2
-│   │       └── S00                     # S00 -> First Shot
+│   │   ├── A0001P0001S00               # A0001 -> Action 1, P0001 -> Person 1, S00 -> First Shot
+│   │   │   ├── color_image             # RGB images
+│   │   │   │   ├── 000000.png
+│   │   │   │   ├── 000001.png
+│   │   │   │   └── ******.png
+│   │   │   ├── depth_raw               # Depth images
+│   │   │   │   ├── 000000.npy
+│   │   │   │   ├── 000001.npy
+│   │   │   │   └── ******.npy
+│   │   │   ├── event_image             # Event images
+│   │   │   │   ├── 000000.png
+│   │   │   │   ├── 000001.png
+│   │   │   │   └── ******.png
+│   │   │   ├── event_raw               # Raw event camera output bin file, NOT released yet
+│   │   │   │   └── A0001P0001S00.bin
+│   │   │   ├── color_label             # Label for RGB images
+│   │   │   │   ├── 000000.txt
+│   │   │   │   ├── 000001.txt
+│   │   │   │   └── ******.txt
+│   │   │   └── event_label             # Label for Event images
+│   │   │       ├── 000000.png
+│   │   │       ├── 000001.png
+│   │   │       └── ******.png
+│   │   └── A0001P0002S00
 │   └── valid                           # Validate set
+│       └── ******
 └── indoor                              # Part of Dataset taken indoors
+    ├── train
+    │   ├── A0001P0001S00
+    │   └── ******
+    └── valid
 ```
 
 ## Definition of Key Points
