@@ -33,8 +33,8 @@ To cite our datasets, please refer to:
 
 ## Use Dataset
 
-* The size of the `CDEHP Dataset` is large, but we have prepared a variety of official distribution channels. Please follow the download page to download the dataset and annotation files, please remember to verify the size of each fragment.
-* In order to make subsequent research results comparable, `CDEHP Dataset` officially divides the verification set. Please follow this method to ensure the fairness of the research work.
+* The size of the `CDEHP Dataset` is large, but we have prepared a variety of official distribution channels. Please follow the [download page](/download) to download the dataset and annotation files, please remember to verify the size of each fragment.
+* In order to make subsequent research results comparable, `CDEHP Dataset` officially divides the verification set. **Please follow this method to ensure the fairness of the research work.**
 
 ## Projects
 
