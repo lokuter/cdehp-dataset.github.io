@@ -21,9 +21,10 @@
 title: CDEHP-Dataset
 email: kuretru@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CDEHP-Dataset: A large scale multimodal dataset for human pose estimation.
+  CDEHP-Dataset: A large scale multimodal event-based dataset for human pose estimation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cdehp-dataset.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: G-HMKYX3BL0H
 twitter_username: jekyllrb
 github_username:  jekyll
 
