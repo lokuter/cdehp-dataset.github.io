@@ -96,7 +96,7 @@ event_name:000001                       # Corresponding event frame file name
 
 ```
 13                                      # Number of key points, fixed at 13
-color_name:000000                       # Corresponding RGb and Depth frame file name
+color_name:000000                       # Corresponding RGB and Depth frame file name
 0.82513311428125 0.3706991523125        # Percent coordinates relative to the image
 0.8501153806093751 0.4064099953625
 0.839520654015625 0.4227385711125
