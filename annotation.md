@@ -37,9 +37,9 @@ CDEHP
 │   │   │   │   ├── 000001.txt
 │   │   │   │   └── ******.txt
 │   │   │   └── event_label             # Label for Event images
-│   │   │       ├── 000000.png
-│   │   │       ├── 000001.png
-│   │   │       └── ******.png
+│   │   │       ├── 000000.txt
+│   │   │       ├── 000001.txt
+│   │   │       └── ******.txt
 │   │   └── A0001P0002S00
 │   └── valid                           # Validate set
 │       └── ******
