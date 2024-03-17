@@ -70,7 +70,7 @@ All annotations use a unified number of key points. We use 13 key points to labe
 
 ## Annotation File Format
 
-All annotation files use a unified format, however, there are some differences between the annotation formats of RGB images and Events.
+All annotation files use a unified format, however, there are some differences between the annotation formats of RGB images and Events. Keypoints are annotated as a percentage relative to the image resolution (x y). Please remember that the resolution of RGB images and Event images are not same, RGB and Depth image use a resolution of `848 x 480`, Event image use a resolution of `1280 x 800`.
 
 ### Label of RGB and Depth Image
 
@@ -97,17 +97,17 @@ event_name:000001                       # Corresponding event frame file name
 ```
 13                                      # Number of key points, fixed at 13
 color_name:000000                       # Corresponding RGb and Depth frame file name
-[1056.17038628] [296.55932185]          # Pixel coordinates
-[1088.14768718] [325.12799629]
-[1074.58643714] [338.19085689]
-[1113.88162926] [428.487696]
-[1092.16942544] [428.24877107]
-[1111.82201341] [482.75107251]
-[1072.11256347] [510.79473907]
-[1082.63718356] [494.30214283]
-[1120.26576282] [499.3071405]
-[1075.76095312] [581.85968023]
-[1167.89354823] [600.75377543]
-[1031.33953106] [681.28011169]
-[1192.96121918] [692.72960084]
+0.82513311428125 0.3706991523125        # Percent coordinates relative to the image
+0.8501153806093751 0.4064099953625
+0.839520654015625 0.4227385711125
+0.8702200228593749 0.53560962
+0.8532573636249999 0.5353109638375
+0.8686109479765625 0.6034388406375
+0.8375879402109374 0.6384934238375
+0.84581029965625 0.6178776785375
+0.875207627203125 0.624133925625
+0.840438244625 0.7273246002875
+0.9124168345546876 0.7509422192875
+0.8057340086406249 0.8516001396125
+0.932000952484375 0.86591200105
 ```
