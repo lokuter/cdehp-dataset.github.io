@@ -6,6 +6,8 @@ permalink: /download
 
 ## Download Link
 
+Please prepare at least 100GiB of space for storing the CDEHP dataset. The decompressed data storage size will be doubled.
+
 |             File Name              | Google Drive | Baidu Disk |                                                            Github                                                             | file size  | sha256sum                                                        |
 | :--------------------------------: | :----------: | :--------: | :---------------------------------------------------------------------------------------------------------------------------: | :--------- | :--------------------------------------------------------------- |
 |     CDEHP_outdoor_v1.0_01.zip      |              |            |     [Link](https://github.com/CDEHP-Dataset/cdehp-dataset.github.io/releases/download/release/CDEHP_outdoor_v1.0_01.zip)      | 1999471580 | 35c6c590dc35dc35055d18ad09184343c8e5de51a1449ca6b3a1739bd14344ca |
@@ -39,4 +41,5 @@ sha256sum --quiet -c CDEHP_outdoor_v1.0_CHECKSUM.sha256
 ## Unzip the Dataset
 
 ```shell
+unzip *.zip
 ```
