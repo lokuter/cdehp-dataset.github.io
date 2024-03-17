@@ -11,6 +11,34 @@ layout: default
 
 We are proud to announce a new large scale multimodal event-based dataset `CDEHP Dataset`(**C**olor **D**epth **E**vent **H**uman **P**ose). `CDEHP Dataset` uses RGB, Depth, and Event cameras to capture actions, bringing a new benchmark to the research of multi-modal models. Of course, you can also use this dataset to carry out research work in the RGB-D field or event camera field.
 
+### Action Class
+
+#### Indoor Actions (13)
+
+| ID   | Action Name  | ID   | Action Name      | ID   | Action Name         | ID   | Action Name             |
+| :--- | :----------- | :--- | :--------------- | :--- | :------------------ | :--- | :---------------------- |
+| A1   | walking      | A2   | squat jumping    | A3   | boxing              | A4   | picking up              |
+| A5   | jumping jack | A6   | crotch high five | A7   | sweeping            | A8   | alternate jumping lunge |
+| A9   | big jump     | A10  | sit-up jump      | A11  | shuttlecock kicking | A12  | throwing                |
+| A13  | spinning     |      |                  |      |                     |      |                         |
+
+#### Outdoor Actions (25)
+
+| ID   | Action Name      | ID   | Action Name   | ID   | Action Name             | ID   | Action Name             |
+| ---- | ---------------- | ---- | ------------- | ---- | ----------------------- | ---- | ----------------------- |
+| A15  | running          | A16  | squat jumping | A17  | frog jump               | A18  | jump fwd/bwd/left/right |
+| A19  | boxing           | A20  | picking up    | A21  | cartwheel               | A22  | jumping jack            |
+| A23  | crotch high five | A24  | crawling      | A25  | rope skipping           | A26  | sweeping                |
+| A27  | mopping          | A28  | cycling       | A29  | alternate jumping lunge | A30  | big jump                |
+| A31  | sit-up jump      | A32  | kicking       | A33  | jump shot               | A34  | shuttlecock kicking     |
+| A35  | spinning         | A36  | throwing      | A37  | long jump               | A38  | burpee                  |
+
+
+### Simple Class
+
+![Indoonsamples of all action classes](/assets/Indoor.png)
+![Outdoor samples of all action classes](/assets/Outdoor.png)
+
 ## Citation
 
 To cite our datasets, please refer to:
@@ -62,7 +90,7 @@ To cite our datasets, please refer to:
    <div class="cell">
       <img class="member_avatar" src="/assets/kuretru.jpg" alt="Wuzhen Wang" />
       <p class="member_name"><a href="https://github.com/kuretru">Wuzhen Wang</a></p>
-      <p>Obtained a Master's degree from Zhejiang University of Technology, currently work for ByteDance Inc.</p>
+      <p>Obtained a Master's degree from Zhejiang University of Technology, currently work for ByteDance.</p>
    </div>
 </div>
 
