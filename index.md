@@ -15,7 +15,7 @@ We are proud to announce a new large scale multimodal event-based dataset `CDEHP
 
 #### Indoor Actions (13)
 
-| ID|<div style="width:90px">Action Name</div>| ID   | <div style="width:90px">Action Name</div>| ID   |<div style="width:120px">Action Name</div>| ID   |<div style="width:150px">Action Name</div>|
+| ID   | Action Name  | ID   | Action Name      | ID   | Action Name         | ID   | Action Name             |
 | :--- | :----------- | :--- | :--------------- | :--- | :------------------ | :--- | :---------------------- |
 | A1   | walking      | A2   | squat jumping    | A3   | boxing              | A4   | picking up              |
 | A5   | jumping jack | A6   | crotch high five | A7   | sweeping            | A8   | alternate jumping lunge |
@@ -24,7 +24,7 @@ We are proud to announce a new large scale multimodal event-based dataset `CDEHP
 
 #### Outdoor Actions (25)
 
-| ID   |<div style="width:100px">Action Name</div>| ID   |<div style="width:90px">Action Name</div>| ID   |<div style="width:150px">Action Name</div>| ID   |<div style="width:160px">Action Name</div>|
+| ID   | Action Name      | ID   | Action Name   | ID   | Action Name             | ID   | Action Name             |
 | ---- | ---------------- | ---- | ------------- | ---- | ----------------------- | ---- | ----------------------- |
 | A15  | running          | A16  | squat jumping | A17  | frog jump               | A18  | jump fwd/bwd/left/right |
 | A19  | boxing           | A20  | picking up    | A21  | cartwheel               | A22  | jumping jack            |
