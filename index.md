@@ -34,7 +34,7 @@ We are proud to announce a new large scale multimodal event-based dataset `CDEHP
 | A35  | spinning         | A36  | throwing      | A37  | long jump               | A38  | burpee                  |
 
 
-### Simple Class
+### Action Samples
 
 ![Indoonsamples of all action classes](/assets/Indoor.png)
 ![Outdoor samples of all action classes](/assets/Outdoor.png)
