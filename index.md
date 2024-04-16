@@ -92,11 +92,6 @@ To cite our datasets, please refer to:
       <p class="member_name"><a href="https://github.com/kuretru">Wuzhen Wang</a></p>
       <p>Obtained a Master's degree from Zhejiang University of Technology, currently work for ByteDance.</p>
    </div>
-   <div class="cell">
-      <img class="member_avatar" src="/assets/kuretru.jpg" alt="Wuzhen Wang" />
-      <p class="member_name"><a href="https://github.com/kuretru">Wuzhen Wang</a></p>
-      <p>Obtained a Master's degree from Zhejiang University of Technology, currently work for ByteDance.</p>
-   </div>
 </div>
 
 ## Contact
