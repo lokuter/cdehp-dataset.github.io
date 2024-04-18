@@ -15,15 +15,20 @@ We are proud to announce a new large scale multimodal event-based dataset `CDEHP
 
 #### Indoor Actions (13)
 
+
+<div class="table-style">
+
 | ID    | Action Name   | ID    | Action Name       | ID    | Action Name          | ID    | Action Name              |
 | :---: | :-----------: | :---: | :---------------: | :---: | :------------------: | :---: | :----------------------: |
 | A1    | walking       | A2    | squat jumping     | A3    | boxing               | A4    | picking up               |
 | A5    | jumping jack  | A6    | crotch high five  | A7    | sweeping             | A8    | alternate jumping lunge  |
 | A9    | big jump      | A10   | sit-up jump       | A11   | shuttlecock kicking  | A12   | throwing                 |
 | A13   | spinning      |       |                   |       |                      |       |                          |
+</div>
 
 #### Outdoor Actions (25)
 
+<div class="table-style">
 |   ID   |   Action Name      |   ID   |   Action Name   |   ID   |   Action Name             |   ID   |   Action Name             |
 | :----: | :----------------: | :----: | :-------------: | :----: | :-----------------------: | :----: | :-----------------------: |
 |   A15  |   running          |   A16  |   squat jumping |   A17  |   frog jump               |   A18  |   jump fwd/bwd/left/right |
@@ -32,7 +37,7 @@ We are proud to announce a new large scale multimodal event-based dataset `CDEHP
 |   A27  |   mopping          |   A28  |   cycling       |   A29  |   alternate jumping lunge |   A30  |   big jump                |
 |   A31  |   sit-up jump      |   A32  |   kicking       |   A33  |   jump shot               |   A34  |   shuttlecock kicking     |
 |   A35  |   spinning         |   A36  |   throwing      |   A37  |   long jump               |   A38  |   burpee                  |
-
+</div>
 
 ### Action Samples
 
