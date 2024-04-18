@@ -26,7 +26,7 @@ We are proud to announce a new large scale multimodal event-based dataset `CDEHP
 
 |   ID   |   Action Name      |   ID   |   Action Name   |   ID   |   Action Name             |   ID   |   Action Name             |
 | :----: | :----------------: | :----: | :-------------: | :----: | :-----------------------: | :----: | :-----------------------: |
-|   A15  |   running          |   A16  |   squat jumping |   A17  |   frog jump               |   A18  |   jump fwd/bwd/left/right |
+|   A15  |   running          |   A16  |   squat jumping |   A17  |   frog jump               |   A18  |   jump&nbsp;fwd/bwd/left/right |
 |   A19  |   boxing           |   A20  |   picking up    |   A21  |   cartwheel               |   A22  |   jumping jack            |
 |   A23  |   crotch high five |   A24  |   crawling      |   A25  |   rope skipping           |   A26  |   sweeping                |
 |   A27  |   mopping          |   A28  |   cycling       |   A29  |   alternate jumping lunge |   A30  |   big jump                |
